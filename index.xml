@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yingzhi</title>
-    <link>http://mr-blue13.github.io/</link>
+    <link>//mr-blue13.github.io/</link>
     <description>Recent content on Yingzhi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Oct 2019 22:26:09 -0500</lastBuildDate>
     
-	<atom:link href="http://mr-blue13.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//mr-blue13.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Curriculum Vitae (EN / CN)</title>
-      <link>http://mr-blue13.github.io/others/cv/</link>
+      <link>//mr-blue13.github.io/others/cv/</link>
       <pubDate>Thu, 31 Oct 2019 22:26:09 -0500</pubDate>
       
-      <guid>http://mr-blue13.github.io/others/cv/</guid>
+      <guid>//mr-blue13.github.io/others/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FIX THE HEART  /Architecture</title>
-      <link>http://mr-blue13.github.io/blogs/blog4/</link>
+      <link>//mr-blue13.github.io/blogs/blog4/</link>
       <pubDate>Thu, 31 Oct 2019 22:26:09 -0500</pubDate>
       
-      <guid>http://mr-blue13.github.io/blogs/blog4/</guid>
+      <guid>//mr-blue13.github.io/blogs/blog4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OTHER DESIGNS</title>
-      <link>http://mr-blue13.github.io/blogs/blog6/</link>
+      <link>//mr-blue13.github.io/blogs/blog6/</link>
       <pubDate>Thu, 31 Oct 2019 22:26:09 -0500</pubDate>
       
-      <guid>http://mr-blue13.github.io/blogs/blog6/</guid>
+      <guid>//mr-blue13.github.io/blogs/blog6/</guid>
       <description>&amp;ldquo;Architect as a team leader&amp;rdquo; poster design.Version 1. Here I describe him or her as reaper. It&amp;rsquo;s ironiy description as we all know architects have a lot of work to finish everyday, and the team leader has to push his/her teammate to work work work. Isn&amp;rsquo;t it so reaper?
  &amp;ldquo;Architect as a team leader&amp;rdquo; poster design.Version 2. As a team leader of architects, he must know core workflow and negotiate with other group members, construction team and even clients.</description>
     </item>
     
     <item>
       <title>SITTING WELL  /UX</title>
-      <link>http://mr-blue13.github.io/blogs/blog1/</link>
+      <link>//mr-blue13.github.io/blogs/blog1/</link>
       <pubDate>Thu, 31 Oct 2019 22:26:09 -0500</pubDate>
       
-      <guid>http://mr-blue13.github.io/blogs/blog1/</guid>
+      <guid>//mr-blue13.github.io/blogs/blog1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>STUDYMATE  /UX</title>
-      <link>http://mr-blue13.github.io/blogs/blog2/</link>
+      <link>//mr-blue13.github.io/blogs/blog2/</link>
       <pubDate>Thu, 31 Oct 2019 22:26:09 -0500</pubDate>
       
-      <guid>http://mr-blue13.github.io/blogs/blog2/</guid>
+      <guid>//mr-blue13.github.io/blogs/blog2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VISITOR CENTRE DEISGN  /ARCHITECTURE</title>
-      <link>http://mr-blue13.github.io/blogs/blog5/</link>
+      <link>//mr-blue13.github.io/blogs/blog5/</link>
       <pubDate>Thu, 31 Oct 2019 22:26:09 -0500</pubDate>
       
-      <guid>http://mr-blue13.github.io/blogs/blog5/</guid>
+      <guid>//mr-blue13.github.io/blogs/blog5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WASTE SORTING  /DESIGN &#43; RESEARCH</title>
-      <link>http://mr-blue13.github.io/blogs/blog3/</link>
+      <link>//mr-blue13.github.io/blogs/blog3/</link>
       <pubDate>Thu, 31 Oct 2019 22:26:09 -0500</pubDate>
       
-      <guid>http://mr-blue13.github.io/blogs/blog3/</guid>
+      <guid>//mr-blue13.github.io/blogs/blog3/</guid>
       <description>Reflection for part 1
 1.After training, model can be used for waste sorting. It can detect the random images
 2.The accuracy of detecting result still needs to be improved. It cannot give a accurate detections for those items which have confusing appearance
